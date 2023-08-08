@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Евгений Вдовин](https://up.htmlacademy.ru/ecmascript/21/user/2132969).
-* Наставник: `Неизвестно`.
+- Студент: [Евгений Вдовин](https://up.htmlacademy.ru/ecmascript/21/user/2132969).
+- Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
