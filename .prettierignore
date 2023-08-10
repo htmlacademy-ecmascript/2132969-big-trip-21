@@ -1,0 +1,6 @@
+.prettierrc
+package.json
+dist
+node_modules
+public
+markup
